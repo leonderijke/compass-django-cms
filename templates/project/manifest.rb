@@ -17,8 +17,9 @@ Installs boilerplate templates, SCSS and configuration for kickstarting your Dja
 }
 
 welcome_message %Q{
-The sass directory is your starting point for all your CSS. In the templates directory you'll find some templates to
-use. Remember to add them to the CMS_TEMPLATES directive in your settings.py:
+Great, now you're all set to get started on this Django CMS project! The sass directory is your starting point for all
+your CSS. In the templates directory you'll find some templates to use. Remember to add them to the CMS_TEMPLATES
+directive in your settings.py:
     CMS_TEMPLATES = (
         ('subpage.html', 'Subpage'),
         ('homepage.html', 'Homepage'),
